@@ -39,7 +39,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "release": "np",
-    "install": "npm run build"
+    "postinstall": "yarn build"
   },
   "jest": {
     "modulePaths": [
