@@ -1,6 +1,4 @@
-/cjs
 /coverage
-/esm
 storybook-static
 npm-debug.log
 .DS_STORE
@@ -8,4 +6,3 @@ npm-debug.log
 .DS_Store
 node_modules
 .cache
-dist

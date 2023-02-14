@@ -38,8 +38,7 @@
     "analyze": "size-limit --why",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "release": "np",
-    "postinstall": "yarn build"
+    "release": "np"
   },
   "jest": {
     "modulePaths": [
